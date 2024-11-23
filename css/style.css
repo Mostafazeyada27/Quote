@@ -1,0 +1,9 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Geist Mono", monospace;
+  background-color: #5372ef;
+}
